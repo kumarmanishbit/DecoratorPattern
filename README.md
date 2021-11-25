@@ -1,3 +1,4 @@
+### Decorator pattern
 Q) How can we change the behavior of an object in java ?
 Answer :- We use inheritance or composition to extend the behavior of an object but 
 this is done at compile time and its applicable to all the instances of the class. 

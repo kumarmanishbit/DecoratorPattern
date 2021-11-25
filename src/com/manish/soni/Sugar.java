@@ -1,6 +1,5 @@
 package com.manish.soni;
 
-
 /*
  * 
  *  This is sugar decorator to add the sugar to existing object.
